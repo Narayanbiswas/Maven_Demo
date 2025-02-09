@@ -1,0 +1,2 @@
+cd C:\Users\Ruma\eclipse-workspace\Maven_Demo
+mvn test
